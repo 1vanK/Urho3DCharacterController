@@ -16,10 +16,10 @@
 
 #### Оригинальный Character Controller
 
-1. Документация: <https://docs.nvidia.com/gameworks/content/gameworkslibrary/physx/guide/Manual/CharacterControllers.html>
-2. Иерархия классов: <http://docs.nvidia.com/gameworks/content/gameworkslibrary/physx/apireference/files/classPxController.html>
-3. Исходник 3.4: <https://github.com/NVIDIAGameWorks/PhysX-3.4/tree/master/PhysX_3.4/Source/PhysXCharacterKinematic/src>
-4. Исходник 4.1: <https://github.com/NVIDIAGameWorks/PhysX/tree/4.1/physx/source/physxcharacterkinematic/src> (TODO: есть ли разница?)
+* Документация: <https://docs.nvidia.com/gameworks/content/gameworkslibrary/physx/guide/Manual/CharacterControllers.html>
+* Иерархия классов: <http://docs.nvidia.com/gameworks/content/gameworkslibrary/physx/apireference/files/classPxController.html>
+* Исходник 3.4: <https://github.com/NVIDIAGameWorks/PhysX-3.4/tree/master/PhysX_3.4/Source/PhysXCharacterKinematic/src>
+* Исходник 4.1: <https://github.com/NVIDIAGameWorks/PhysX/tree/4.1/physx/source/physxcharacterkinematic/src> (TODO: есть ли разница?)
 
 #### Unity
 
@@ -28,15 +28,15 @@ Unity использует CC из PhysX (TODO: разобраться, моди
 
 ### Bullet Physics Library
 
-1. Оригинальный CC: <https://github.com/bulletphysics/bullet3/tree/master/src/BulletDynamics/Character>
-2. Torque 3D: <https://github.com/GarageGames/Torque3D/blob/development/Engine/source/T3D/physics/bullet/btPlayer.cpp>
-3. OpenMW: <https://gitlab.com/OpenMW/openmw/blob/master/apps/openmw/mwphysics/physicssystem.cpp>
+* Оригинальный CC: <https://github.com/bulletphysics/bullet3/tree/master/src/BulletDynamics/Character>
+* Torque 3D: <https://github.com/GarageGames/Torque3D/blob/development/Engine/source/T3D/physics/bullet/btPlayer.cpp>
+* OpenMW: <https://gitlab.com/OpenMW/openmw/blob/master/apps/openmw/mwphysics/physicssystem.cpp>
 
 ### CryEngine
 <https://github.com/CRYTEK/CRYENGINE/blob/release/Code/CryEngine/CryPhysics/livingentity.cpp> TODO: что-то мутный код, тут точно Character Controller?
 
 ### Unreal Engine
 
-Как получить доступ к официальному репозиторию: <https://github.com/EpicGames/Signup><br>
-<https://github.com/EpicGames/UnrealEngine/blob/release/Engine/Source/Runtime/Engine/Private/Components/CharacterMovementComponent.cpp> > MoveAlongFloor()<br>
-<https://github.com/EpicGames/UnrealEngine/blob/release/Engine/Source/Runtime/Engine/Classes/GameFramework/CharacterMovementComponent.h>
+* Как получить доступ к официальному репозиторию: <https://github.com/EpicGames/Signup>
+* <https://github.com/EpicGames/UnrealEngine/blob/release/Engine/Source/Runtime/Engine/Private/Components/CharacterMovementComponent.cpp> > MoveAlongFloor()
+* <https://github.com/EpicGames/UnrealEngine/blob/release/Engine/Source/Runtime/Engine/Classes/GameFramework/CharacterMovementComponent.h>

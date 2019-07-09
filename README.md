@@ -34,3 +34,9 @@ Unity использует CC из PhysX (TODO: разобраться, моди
 
 ### CryEngine
 <https://github.com/CRYTEK/CRYENGINE/blob/release/Code/CryEngine/CryPhysics/livingentity.cpp> TODO: что-то мутный код, тут точно Character Controller?
+
+### Unreal Engine
+
+Как получить доступ к официальному репозиторию: <https://github.com/EpicGames/Signup><br>
+<https://github.com/EpicGames/UnrealEngine/blob/release/Engine/Source/Runtime/Engine/Private/Components/CharacterMovementComponent.cpp> > MoveAlongFloor()<br>
+<https://github.com/EpicGames/UnrealEngine/blob/release/Engine/Source/Runtime/Engine/Classes/GameFramework/CharacterMovementComponent.h>

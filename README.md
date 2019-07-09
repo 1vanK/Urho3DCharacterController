@@ -2,7 +2,11 @@
 
 ## Литература
 
-Алготим перешагивания неровностей, который используется практически везде: <https://www.gamasutra.com/view/feature/131508/bsp_collision_detection_as_used_in_.php?print=1>
+Алготим перешагивания неровностей, который используется практически везде: <https://www.gamasutra.com/view/feature/131508/bsp_collision_detection_as_used_in_.php?print=1>.
+
+### Serious Engine
+
+<https://github.com/Croteam-official/Serious-Engine/blob/master/Sources/Engine/Classes/MovableEntity.es> > TryToGoUpstairs()
 
 ### NVIDIA PhysX
 

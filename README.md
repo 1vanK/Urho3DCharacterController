@@ -8,6 +8,10 @@
 
 <https://github.com/Croteam-official/Serious-Engine/blob/master/Sources/Engine/Classes/MovableEntity.es> > TryToGoUpstairs()
 
+### Doom 3
+
+<https://github.com/id-Software/DOOM-3/blob/master/neo/d3xp/physics/Physics_Player.cpp> > SlideMove()
+
 ### NVIDIA PhysX
 
 #### Оригинальный Character Controller

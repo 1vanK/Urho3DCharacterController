@@ -44,3 +44,8 @@ Unity использует CC из PhysX (TODO: разобраться, моди
 * Как получить доступ к официальному репозиторию: <https://github.com/EpicGames/Signup>
 * <https://github.com/EpicGames/UnrealEngine/blob/release/Engine/Source/Runtime/Engine/Private/Components/CharacterMovementComponent.cpp> > MoveAlongFloor()
 * <https://github.com/EpicGames/UnrealEngine/blob/release/Engine/Source/Runtime/Engine/Classes/GameFramework/CharacterMovementComponent.h>
+
+### DigitalRune
+
+* Документация: <https://digitalrune.github.io/DigitalRune-Documentation/html/7cc27ced-9a65-4ddd-8b8e-fa817b7fe6b7.htm>
+* Исходник: <https://github.com/DigitalRune/DigitalRune/tree/master/Source/DigitalRune.Physics.Specialized/CharacterControllers>

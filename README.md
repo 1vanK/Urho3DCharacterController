@@ -2,7 +2,7 @@
 
 ## Литература
 
-Алготим перешагивания неровностей, который используется практически везде: <https://www.gamasutra.com/view/feature/131508/bsp_collision_detection_as_used_in_.php?print=1>
+Алгоритм перешагивания неровностей, который используется практически везде: <https://www.gamasutra.com/view/feature/131508/bsp_collision_detection_as_used_in_.php?print=1>
 
 ### Serious Engine
 

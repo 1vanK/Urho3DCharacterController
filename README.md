@@ -31,3 +31,6 @@ Unity использует CC из PhysX (TODO: разобраться, моди
 1. Оригинальный CC: <https://github.com/bulletphysics/bullet3/tree/master/src/BulletDynamics/Character>
 2. Torque 3D: <https://github.com/GarageGames/Torque3D/blob/development/Engine/source/T3D/physics/bullet/btPlayer.cpp>
 3. OpenMW: <https://gitlab.com/OpenMW/openmw/blob/master/apps/openmw/mwphysics/physicssystem.cpp>
+
+### CryEngine
+<https://github.com/CRYTEK/CRYENGINE/blob/release/Code/CryEngine/CryPhysics/livingentity.cpp> TODO: что-то мутный код, тут точно Character Controller?

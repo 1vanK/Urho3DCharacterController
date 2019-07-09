@@ -26,6 +26,10 @@
 Unity использует CC из PhysX (TODO: разобраться, модифицированный или оригинальный), однако
 есть самописный на языке C#: <https://github.com/Unity-Technologies/Standard-Assets-Characters/blob/master/Assets/_Standard%20Assets/Characters/Scripts/Physics/OpenCharacterController.cs>
 
+#### Torque 3D
+
+<https://github.com/GarageGames/Torque3D/blob/development/Engine/source/T3D/physics/physx3/px3Player.cpp>
+
 ### Bullet Physics Library
 
 * Оригинальный CC: <https://github.com/bulletphysics/bullet3/tree/master/src/BulletDynamics/Character>
